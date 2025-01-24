@@ -45,6 +45,6 @@ Table 1: Performance Metrics (MAPE, RMSE, Cumulative Returns)
 README.md: Explains the project and how to run the code.
 ---
 
-#Contributors
+## Contributors
 - Dhawal Arora
 - Pang Chern Hong
