@@ -46,5 +46,5 @@ README.md: Explains the project and how to run the code.
 ---
 
 #Contributors
-Dhawal Arora
-Pang Chern Hong
+- Dhawal Arora
+- Pang Chern Hong
